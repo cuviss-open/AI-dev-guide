@@ -23,6 +23,7 @@
 - Rust：`AI-dev-guide/rules/languages/rust.zh.md`
 - TypeScript + React（含 `.tsx` 组件）：`AI-dev-guide/rules/languages/typescript-react.zh.md`
 - CSS：`AI-dev-guide/rules/languages/css.zh.md`
+- 编写或重写自动化脚本：`AI-dev-guide/rules/scripting.zh.md`
 
 ## Git 授权
 

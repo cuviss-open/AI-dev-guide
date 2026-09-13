@@ -23,6 +23,7 @@ Read these only when the task involves matching code or style changes:
 - Rust: `AI-dev-guide/rules/languages/rust.en.md`
 - TypeScript + React, including `.tsx` components: `AI-dev-guide/rules/languages/typescript-react.en.md`
 - CSS: `AI-dev-guide/rules/languages/css.en.md`
+- Writing or rewriting an automation script: `AI-dev-guide/rules/scripting.en.md`
 
 ## Git Authorization
 
